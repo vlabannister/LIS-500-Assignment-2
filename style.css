@@ -1,0 +1,46 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Raleway", sans-serif
+}
+
+body,
+html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+body {
+    padding: 100px;
+}
+
+.profile-picture {
+    width: 50%;
+    float: left;
+    padding: 0px 15px 15px 0px;
+}
+
+nav a.active,
+nav a.active:visited,
+nav a.active:active,
+nav a.active:hover {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+a,
+a:visited {
+    color: #830378;
+}
+
+a:active,
+a:hover {
+    color: #d600c4;
+}
