@@ -4,29 +4,10 @@
 	<head>
 		<title>Victoria amp&; Karen</title>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 		<style>
 		body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
-	
-		body, html {
-	  	height: 100%;
-	  	line-height: 1.8;
-		}
-	
-		/* Full height image header */
-		.bgimg-1 {
-	  	background-position: center;
-	  	background-size: cover;
-	  	background-image: url("/w3images/mac.jpg");
-	  	min-height: 100%;
-		}
-	
-		.w3-bar .w3-button {
-	 	 padding: 16px;
-		}
+ 		{padding: 100px;}
 		</style>
 	</head>
 
@@ -43,7 +24,7 @@
 	
 		<h3>A Little About Victoria Bannister</h3>
 			<img src="GET A JPEG OF VICTORIA" width="##" height="##" alt="Victoria Bannister">
-		<p>Put in some intro text about Victoria</p>
+		<p>Victoria Bannister lives in Madison, WI, and is a 4th year part-time student in the Master of Library and Information Studies (MLIS) Distance Learning Program. She currently works full-time at the Department of Public Instruction (DPI) on the Literacy and Mathematics team. She started at DPI in the Fall of 2019 and was inspired and encouraged by her new colleagues to apply to the MLIS program at UW-Madison, where she started in the Fall of 2020. Outside of work and school, Victoria enjoys spending time chasing after her toddler!</p>
 		<h4>Victoria's Tech Hero: iJustine</h4>
 			<p><a href=https://www.youtube.com/@iJustine>iJustine YouTube Channel</a></p>
 			<p><a id=WEBSITE PAGE>Go To iJustine Page</a></p>
